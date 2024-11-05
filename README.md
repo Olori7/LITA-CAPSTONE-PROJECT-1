@@ -6,7 +6,7 @@ In this project, i was tasked with analyzing the sales performance of a retail s
 ### Data Set
 ----
 SALES DATA
-
+https://github.com/Olori7/LITA-CAPSTONE-PROJECT-1/blob/main/SALES%20DATA.xlsx
 ### Introduction
 ---
 The goal is to produce an interactive Power BI dashboard that highlights the following findigs:
@@ -24,27 +24,30 @@ I carefully analyzed the raw dataset and realized that before i can determine th
 ---
 The Key Features of the Project are listed below
   1. Total Sales By Product
+https://github.com/Olori7/LITA-CAPSTONE-PROJECT-1/blob/main/total%20sales%20by%20product.png
 
-
+https://github.com/Olori7/LITA-CAPSTONE-PROJECT-1/blob/main/sum%20total%20sales%20by%20product.png
   
   2. Total Sales By Region
+https://github.com/Olori7/LITA-CAPSTONE-PROJECT-1/blob/main/total%20sales%20by%20region.png
 
-
+https://github.com/Olori7/LITA-CAPSTONE-PROJECT-1/blob/main/sum%20total%20sales%20by%20region.png
 
   3. Total Sales By Month
+https://github.com/Olori7/LITA-CAPSTONE-PROJECT-1/blob/main/total%20sales%20by%20month.png
 
-
+https://github.com/Olori7/LITA-CAPSTONE-PROJECT-1/blob/main/sum%20total%20sales%20by%20month.png
 
 
 ### SQL Features of the project
 ---
+https://github.com/Olori7/LITA-CAPSTONE-PROJECT-1/blob/main/LITA%20Capstone%20Project%201.sql
 Key Insights were extracted using SQL, the insights are as follows
 
     1. I Retrieved the total sales for each product category.
     2. Finding the number of sales transactions in each region.
     3. Finding the highest selling products by total sales value.
-    4. Calculating the Total revenue per product.[SALES DATA.xlsx](https://github.com/user-attachments/files/17635644/SALES.DATA.xlsx)
-
+    4. Calculating the Total revenue per product.
     5. Calculating monthly sales totals for the current year.
     6. Finding the top 5 customers by total purchase amount.
     7. Calculating the percentage of total sales contributed by each region.
@@ -57,3 +60,4 @@ Where condition = True
 ### Power BI Features of the Project
 ---
 I represented all the data worked on Excel and Sql in Power Bi and the result are a follows:
+https://github.com/Olori7/LITA-CAPSTONE-PROJECT-1/blob/main/Sales%20Data.jpg
